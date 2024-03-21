@@ -1,0 +1,116 @@
+/* Your existing SS */
+body {
+    font-family: "Roboto", sans-serif;
+    margin: auto;
+}
+
+
+
+header {
+    background-image: linear-gradient(to top, #7893e4 0%, #c6c7e0 100%);
+}
+
+.navbar-brand {
+    color: #252998;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link {
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #544f9f !important;
+}
+
+
+
+.nav-tabs .nav-link {
+    color: blue !important;
+}
+
+/* Set background color and text color when nav link is active (clicked) */
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link.active:hover,
+.nav-tabs .nav-link:focus {
+    background-color: blue !important;
+    color: white !important;
+}
+
+/* Set text color to white when hovering nav link */
+.nav-tabs .nav-link:hover {
+    color: white !important;
+}
+
+.btn-primary {
+    background-color: #252998 !important;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #6b6ebd !important;
+
+}
+
+
+p {
+    font-size: 18px;
+}
+
+.blue-bg {
+    background-color: #3136b9;
+    color: white;
+}
+
+.text-primary {
+    color: #00035e;
+}
+
+/* Adjusting size and position of the Shop Now button */
+.btn-shop-now {
+    font-size: 14px;
+    /* Decreasing font size */
+    padding: 8px 16px;
+    /* Adjusting padding */
+}
+
+/* Aligning the Shop Now button to the left */
+.shop-now-container {
+    text-align: left;
+}
+
+.icons {
+    height: 25px;
+    width: 25px;
+    /* border-radius: 5px; */
+    margin-bottom: aut15px;
+    color: blue;
+    background-color: #f2f2f2;
+    padding: 6px;
+}
+
+.nav-tabs .nav-item.show .nav-link. .nav-tabs .nav-link.active {
+    border: none !important;
+    background-color: blue;
+    color: white;
+    padding: 4px;
+}
+
+.nav-tabs {
+    border: none !important;
+}
+
+.footer {
+    background-color: #3b3333;
+    color: white;
+    /* Optionally, change text color */
+}
+
+.about{
+
+    width: 100%;
+    Overflow: hidden;
+}
